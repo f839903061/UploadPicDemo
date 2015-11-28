@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "G:\\demo\\UploadPicDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_out.xml",
+        "source": "G:\\demo\\UploadPicDemo1\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "G:\\demo\\UploadPicDemo1\\app\\build\\intermediates\\res\\merged\\debug\\anim\\push_bottom_in.xml",
+        "source": "G:\\demo\\UploadPicDemo1\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+    }
+]

@@ -1,0 +1,22 @@
+[
+    {
+        "merged": "G:\\demo\\UploadPicDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_add_pic.png",
+        "source": "G:\\demo\\UploadPicDemo1\\app\\src\\main\\res\\drawable-hdpi\\ic_add_pic.png"
+    },
+    {
+        "merged": "G:\\demo\\UploadPicDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_user.png",
+        "source": "G:\\demo\\UploadPicDemo1\\app\\src\\main\\res\\drawable-hdpi\\login_user.png"
+    },
+    {
+        "merged": "G:\\demo\\UploadPicDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bg_title_bar.xml",
+        "source": "G:\\demo\\UploadPicDemo1\\app\\src\\main\\res\\drawable-hdpi\\bg_title_bar.xml"
+    },
+    {
+        "merged": "G:\\demo\\UploadPicDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "G:\\demo\\UploadPicDemo1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "G:\\demo\\UploadPicDemo1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\login_pwd.png",
+        "source": "G:\\demo\\UploadPicDemo1\\app\\src\\main\\res\\drawable-hdpi\\login_pwd.png"
+    }
+]

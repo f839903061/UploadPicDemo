@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "G:\\demo\\UploadPicDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_dialog_pic.xml",
+        "source": "G:\\demo\\UploadPicDemo1\\app\\src\\main\\res\\layout\\layout_dialog_pic.xml"
+    },
+    {
+        "merged": "G:\\demo\\UploadPicDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "G:\\demo\\UploadPicDemo1\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "G:\\demo\\UploadPicDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\layout_titlebar.xml",
+        "source": "G:\\demo\\UploadPicDemo1\\app\\src\\main\\res\\layout\\layout_titlebar.xml"
+    },
+    {
+        "merged": "G:\\demo\\UploadPicDemo1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_upload.xml",
+        "source": "G:\\demo\\UploadPicDemo1\\app\\src\\main\\res\\layout\\activity_upload.xml"
+    }
+]
